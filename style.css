@@ -35,7 +35,7 @@ footer {
     border-radius: 12px;
     background:
         linear-gradient(white, white) padding-box,
-        linear-gradient(135deg, #080404, #1e8bac) border-box;
+        linear-gradient(25deg, #1e8bac, #080404) border-box; 
     background-size: cover;
     background-position: center;
 }
